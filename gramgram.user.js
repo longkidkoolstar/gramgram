@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Grammarly Hack (Base)
 // @namespace    http://tampermonkey.net/
-// @version      1.4.2
+// @version      1.4.3
 // @description  try to take over the world!
 // @author       longkidkoolstar
 // @match        https://app.grammarly.com/*
